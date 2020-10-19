@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("h1").click(function() {
+    $("button").click(function() {
         const initial = prompt("Give me worrrrrds!!");
 
         function getWords(firstLetter, secondLetter) {

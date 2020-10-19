@@ -1,0 +1,23 @@
+body {
+  background: beige;
+}
+
+h1 {
+  text-align: center;
+  color: #770000;
+}
+
+button {
+  margin: auto;
+  /* border-radius: 90%; */
+  box-shadow: 0 0 .25rem black;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+}
+
+img {
+  max-width:100%;
+}
