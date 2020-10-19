@@ -16,4 +16,5 @@ function finalWords() {
     return posLetter + initial + revResult;
 }
 
+
 alert(finalWords());
